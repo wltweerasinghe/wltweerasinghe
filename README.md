@@ -14,7 +14,7 @@
 
 ---
 
-## <img src="https://readmes.pages.dev/text/about-me/color-e65616/dark/size-28" alt="About me" />
+## <img src="https://readmes.pages.dev/text/about-me/dark/size-28" alt="About me" />
 
 I turn complex ideas into useful digital experiences. My work brings together **web engineering, applied AI, automation, and visual communication** — from interactive learning tools to creative production workflows.
 
@@ -26,7 +26,7 @@ I enjoy taking an idea from its first concept to a working experience: understan
 
 ---
 
-## <img src="https://readmes.pages.dev/text/selected-work/color-f00069/dark/size-28" alt="Selected work" />
+## <img src="https://readmes.pages.dev/text/selected-work/dark/size-28" alt="Selected work" />
 
 <table>
 <tr>
@@ -89,7 +89,7 @@ Interactive front-end web simulation modeling a smart interactive display operat
 
 ---
 
-## <img src="https://readmes.pages.dev/text/media-%26-productions/color-e65616/dark/size-28" alt="Media & productions" />
+## <img src="https://readmes.pages.dev/text/media-%26-productions/dark/size-28" alt="Media & productions" />
 
 <table>
 <tr>
@@ -117,7 +117,7 @@ Interactive front-end web simulation modeling a smart interactive display operat
 
 ---
 
-## <img src="https://readmes.pages.dev/text/highlights/color-e65616/dark/size-28" alt="Highlights" />
+## <img src="https://readmes.pages.dev/text/highlights/dark/size-28" alt="Highlights" />
 
 <div align="center">
 
@@ -154,7 +154,7 @@ Interactive front-end web simulation modeling a smart interactive display operat
 
 ---
 
-## <img src="https://readmes.pages.dev/text/technical-toolkit/color-f00069/dark/size-28" alt="Technical toolkit" />
+## <img src="https://readmes.pages.dev/text/technical-toolkit/dark/size-28" alt="Technical toolkit" />
 
 ### Web engineering
 
@@ -191,7 +191,7 @@ Interactive front-end web simulation modeling a smart interactive display operat
 
 ---
 
-## <img src="https://readmes.pages.dev/text/what-i-can-help-with/color-e65616/dark/size-28" alt="What I can help with" />
+## <img src="https://readmes.pages.dev/text/what-i-can-help-with/dark/size-28" alt="What I can help with" />
 
 - **Digital product development** — planning and building web experiences around real user needs.
 - **AI adoption & automation** — identifying practical opportunities to integrate AI into existing workflows.
@@ -200,7 +200,7 @@ Interactive front-end web simulation modeling a smart interactive display operat
 
 ---
 
-## <img src="https://readmes.pages.dev/text/connect/color-f00069/dark/size-28" alt="Connect" />
+## <img src="https://readmes.pages.dev/text/connect/dark/size-28" alt="Connect" />
 
 <div align="center">
 
